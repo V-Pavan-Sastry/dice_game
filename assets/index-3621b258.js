@@ -78,7 +78,7 @@ align-items: flex-end;
 
 }
 
-`,Em=({toggle:e})=>R.jsxs(xm,{children:[R.jsx("div",{children:R.jsx("img",{src:"/images/dices.png",alt:"dices"})}),R.jsxs("div",{className:"context",children:[R.jsx("h1",{children:"DICE GAME"}),R.jsx(km,{onClick:e,children:"Play Now"})]})]}),Cm=Ke.div`
+`,Em=({toggle:e})=>R.jsxs(xm,{children:[R.jsx("div",{children:R.jsx("img",{src:"./images/dices.png",alt:"dices"})}),R.jsxs("div",{className:"context",children:[R.jsx("h1",{children:"DICE GAME"}),R.jsx(km,{onClick:e,children:"Play Now"})]})]}),Cm=Ke.div`
 text-align:center;
 max-width:200px;
 
